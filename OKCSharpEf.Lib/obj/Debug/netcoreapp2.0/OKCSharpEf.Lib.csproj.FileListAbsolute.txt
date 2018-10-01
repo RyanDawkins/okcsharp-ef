@@ -1,0 +1,12 @@
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf.Lib\bin\Debug\netcoreapp2.0\OKCSharpEf.Lib.deps.json
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf.Lib\bin\Debug\netcoreapp2.0\OKCSharpEf.Lib.dll
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf.Lib\bin\Debug\netcoreapp2.0\OKCSharpEf.Lib.pdb
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf.Lib\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf.Lib\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf.Lib\obj\Debug\netcoreapp2.0\OKCSharpEf.Lib.csproj.CoreCompileInputs.cache
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf.Lib\obj\Debug\netcoreapp2.0\OKCSharpEf.Lib.AssemblyInfoInputs.cache
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf.Lib\obj\Debug\netcoreapp2.0\OKCSharpEf.Lib.AssemblyInfo.cs
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf.Lib\obj\Debug\netcoreapp2.0\OKCSharpEf.Lib.csproj.CopyComplete
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf.Lib\obj\Debug\netcoreapp2.0\OKCSharpEf.Lib.dll
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf.Lib\obj\Debug\netcoreapp2.0\OKCSharpEf.Lib.pdb
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf.Lib\obj\Debug\netcoreapp2.0\OKCSharpEf.Lib.csprojAssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OKCSharpEf.Lib", "OKCSharpEf.Lib\OKCSharpEf.Lib.csproj", "{22C64F37-088F-4044-8927-675A9D2AF403}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{FA7CA02F-64B8-4888-B606-0B2E385146DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22C64F37-088F-4044-8927-675A9D2AF403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C64F37-088F-4044-8927-675A9D2AF403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C64F37-088F-4044-8927-675A9D2AF403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C64F37-088F-4044-8927-675A9D2AF403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA7CA02F-64B8-4888-B606-0B2E385146DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7CA02F-64B8-4888-B606-0B2E385146DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7CA02F-64B8-4888-B606-0B2E385146DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7CA02F-64B8-4888-B606-0B2E385146DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D673BCE9-6D35-4D56-A058-3BE239F65DFE}
+	EndGlobalSection
+EndGlobal

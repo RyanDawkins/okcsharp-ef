@@ -1,0 +1,11 @@
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf\bin\Debug\netcoreapp2.0\OKCSharpEf.deps.json
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf\bin\Debug\netcoreapp2.0\OKCSharpEf.runtimeconfig.json
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf\bin\Debug\netcoreapp2.0\OKCSharpEf.runtimeconfig.dev.json
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf\bin\Debug\netcoreapp2.0\OKCSharpEf.dll
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf\bin\Debug\netcoreapp2.0\OKCSharpEf.pdb
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf\obj\Debug\netcoreapp2.0\OKCSharpEf.csproj.CoreCompileInputs.cache
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf\obj\Debug\netcoreapp2.0\OKCSharpEf.AssemblyInfoInputs.cache
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf\obj\Debug\netcoreapp2.0\OKCSharpEf.AssemblyInfo.cs
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf\obj\Debug\netcoreapp2.0\OKCSharpEf.dll
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf\obj\Debug\netcoreapp2.0\OKCSharpEf.pdb
+C:\Users\ryan\source\repos\OKCSharpEf\OKCSharpEf\obj\Debug\netcoreapp2.0\OKCSharpEf.csprojAssemblyReference.cache
